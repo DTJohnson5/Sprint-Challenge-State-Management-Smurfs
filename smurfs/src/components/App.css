@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  color: yellow;
+  background: rgba(255, 0, 0, .25);
+}
+
+.App h1 {
+  color: blue;
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 40px;
 }
 
 .App-logo {
@@ -20,6 +28,12 @@
 
 .App-intro {
   font-size: large;
+}
+
+h2 {
+  font-family: 'Audiowide', cursive;
+  font-size: 32px;
+  color: forestgreen;
 }
 
 @keyframes App-logo-spin {
