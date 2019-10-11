@@ -18,4 +18,4 @@ Redux-Thunk is a type of middleware which allows us to return functions through 
 
 1. What is your favorite state management system you've learned and this sprint? Please explain why!
 
-Though I needed 15 bottles of Visine to rehydrate my eye after all the videos I had to watch, Redux is the better of the two styles because it gives you better control over the content while also painlessly granting more power in the case that multiple designers have to work on larger apps.
+Though I needed 15 bottles of Visine to rehydrate my eyes after all the videos I had to watch, Redux is the better of the two styles because it gives you better control over the content while also painlessly granting more power in the case that multiple designers have to work on larger apps.
